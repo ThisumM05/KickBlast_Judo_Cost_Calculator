@@ -53,16 +53,13 @@ Before running this application, ensure you have the following installed:
    cd KickBlast_Judo_Cost_Calculator
    ```
 
-3. Open the solution file in Visual Studio:
+3. Open the project in your preferred IDE:
    ```bash
-   # For Visual Studio
-   start KickBlast_Judo_Cost_Calculator.sln
-   
-   # Or for Visual Studio Code
+   # For Visual Studio Code
    code .
    ```
 
-4. Restore NuGet packages:
+4. Once the project code is added, restore NuGet packages:
    ```bash
    dotnet restore
    ```
@@ -95,6 +92,8 @@ Before running this application, ensure you have the following installed:
 
 ## 📁 Project Structure
 
+The project will follow the MVC architecture pattern:
+
 ```
 KickBlast_Judo_Cost_Calculator/
 │
@@ -121,7 +120,7 @@ Please ensure your code follows the existing code style and includes appropriate
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source. License details will be added soon.
 
 ## 📧 Contact
 
