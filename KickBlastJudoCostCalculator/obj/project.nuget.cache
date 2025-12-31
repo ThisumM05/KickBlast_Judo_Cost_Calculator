@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4YArXgTN5Y=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\KickBlastJudoCostCalculator\\KickBlastJudoCostCalculator\\KickBlastJudoCostCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.resources.extensions\\8.0.0\\system.resources.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package System.Resources.Extensions 8.0.0 is not compatible with net45 (.NETFramework,Version=v4.5). Package System.Resources.Extensions 8.0.0 supports:\r\n  - net462 (.NETFramework,Version=v4.6.2)\r\n  - net6.0 (.NETCoreApp,Version=v6.0)\r\n  - net7.0 (.NETCoreApp,Version=v7.0)\r\n  - net8.0 (.NETCoreApp,Version=v8.0)\r\n  - netstandard2.0 (.NETStandard,Version=v2.0)",
+      "projectPath": "C:\\Users\\user\\Desktop\\KickBlastJudoCostCalculator\\KickBlastJudoCostCalculator\\KickBlastJudoCostCalculator.csproj",
+      "filePath": "C:\\Users\\user\\Desktop\\KickBlastJudoCostCalculator\\KickBlastJudoCostCalculator\\KickBlastJudoCostCalculator.csproj",
+      "libraryId": "System.Resources.Extensions",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5"
+      ]
+    }
+  ]
+}

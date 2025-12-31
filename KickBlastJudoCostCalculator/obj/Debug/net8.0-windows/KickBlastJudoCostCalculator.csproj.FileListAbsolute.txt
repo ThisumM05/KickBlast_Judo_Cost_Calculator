@@ -1,0 +1,112 @@
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.exe
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.deps.json
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.runtimeconfig.json
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.dll
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.pdb
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.Form1.resources
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.dll
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\refint\KickBlastJudoCostCalculator.dll
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.pdb
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.genruntimeconfig.cache
+C:\Users\User\Desktop\assignment\activity 04\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\ref\KickBlastJudoCostCalculator.dll
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.exe
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.deps.json
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.runtimeconfig.json
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.dll
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.pdb
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.Form1.resources
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlas.950751C5.Up2Date
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.dll
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\refint\KickBlastJudoCostCalculator.dll
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.pdb
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.genruntimeconfig.cache
+C:\Users\User\Desktop\assignment\activity 04\try 2\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\ref\KickBlastJudoCostCalculator.dll
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.exe
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.deps.json
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.runtimeconfig.json
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.dll
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.pdb
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.AssemblyReference.cache
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.Form1.resources
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.GenerateResource.cache
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.AssemblyInfoInputs.cache
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.AssemblyInfo.cs
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.CoreCompileInputs.cache
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlas.950751C5.Up2Date
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.dll
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\refint\KickBlastJudoCostCalculator.dll
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.pdb
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.genruntimeconfig.cache
+C:\Users\chath\Desktop\Final\Final_v1\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\ref\KickBlastJudoCostCalculator.dll
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.AssemblyReference.cache
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.dll
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\refint\KickBlastJudoCostCalculator.dll
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.pdb
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.exe
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.deps.json
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.runtimeconfig.json
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.dll
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.pdb
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.Form1.resources
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.GenerateResource.cache
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.AssemblyInfoInputs.cache
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.AssemblyInfo.cs
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.CoreCompileInputs.cache
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlas.950751C5.Up2Date
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.genruntimeconfig.cache
+C:\Users\osach\OneDrive\Desktop\headache\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\ref\KickBlastJudoCostCalculator.dll
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.AssemblyReference.cache
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.dll
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\refint\KickBlastJudoCostCalculator.dll
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.pdb
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.exe
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.deps.json
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.runtimeconfig.json
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.dll
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\KickBlastJudoCostCalculator.pdb
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.Form1.resources
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.GenerateResource.cache
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.AssemblyInfoInputs.cache
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.AssemblyInfo.cs
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.csproj.CoreCompileInputs.cache
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlas.950751C5.Up2Date
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\KickBlastJudoCostCalculator.genruntimeconfig.cache
+C:\Users\chath\Desktop\Final_v1_done\activity 4\KickBlastJudoCostCalculator\KickBlastJudoCostCalculator\obj\Debug\net8.0-windows\ref\KickBlastJudoCostCalculator.dll
